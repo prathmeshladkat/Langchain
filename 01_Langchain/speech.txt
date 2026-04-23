@@ -1,1 +1,5 @@
-We are seeking Backend Developer Interns (preferably 4th year students or recent graduates) who can design secure, scalable backend systems. Alongside building strong backend APIs, you will also create a basic frontend UI to demonstrate and interact with your APIs.
+Vision - BIK helps e-commerce companies in India generate more revenue. We work with large e-commerce players like Livspace, Fireboltt, Tata Brands, and Forum Mall.
+Products - BIK and Manifest AI
+Scale - We process more than a billion events across these brands on a yearly basis, and this is increasing rapidly month-on-month.
+Fuel - We have been monetizing the product from early days and have a solid business model. Our revenue numbers are growing at a healthy pace. We are funded by top investors like Sequoia Capital and Y Combinator.
+People - We have a culture that provides challenging problems to solve along with high rewards.

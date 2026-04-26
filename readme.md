@@ -1,0 +1,1 @@
+chain = prompt | llm -> in this scenario user inout goes to prompt template first then whole template gets passed to llm. 
